@@ -1,1 +1,1 @@
-module proto/mod
+module github.com/TCTPY/protos
